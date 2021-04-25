@@ -161,6 +161,6 @@ Project Link: [https://github.com/ariel-nathan/React-Memories](https://github.co
 
 [lastcommit-shield]: https://img.shields.io/github/last-commit/ariel-nathan/React-Memories/main?style=flat-square
 [license-shield]: https://img.shields.io/github/license/ariel-nathan/React-Memories?style=flat-square
-[license-url]: https://github.com/ariel-nathan/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/ariel-nathan/React-Memories/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ariel-nathan
