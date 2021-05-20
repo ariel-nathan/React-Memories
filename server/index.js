@@ -5,6 +5,7 @@ import dotenv from "dotenv";
 
 //Routers
 import postRoutes from "./routes/posts.js";
+import userRoutes from "./routes/user.js";
 
 const app = express();
 dotenv.config();
@@ -23,6 +24,7 @@ app.use(cors());
 
 //Middlewares
 app.use("/posts", postRoutes);
+app.use("/user", userRoutes);
 
 //Mongoose
 mongoose
