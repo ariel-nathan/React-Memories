@@ -76,7 +76,7 @@
   <img src="images/memories-app.png" alt="app">
 </p>
 
-Memories is a social media app where anyone can create, edit, delete, and like posts. I plan on implementing an authentication system so that each user has control over their own posts.
+Memories is a social media app where anyone can make a free account, sign in, and then create, edit, delete, and like posts.
 
 ### Built With
 
@@ -87,6 +87,8 @@ Memories is a social media app where anyone can create, edit, delete, and like p
 - [Redux](https://react-redux.js.org/)
 - [Axios](https://github.com/axios/axios)
 - [Material-UI](https://material-ui.com/)
+- [JWT](https://jwt.io/)
+- [Google Oauth](https://developers.google.com/identity/protocols/oauth2)
 
 <!-- GETTING STARTED -->
 
